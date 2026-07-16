@@ -181,30 +181,6 @@ A Flask-based computer-vision application for performing object detection and di
 [View Flask Object Detection](https://github.com/Midhun884/flask_object_detection)
 
 ---
-
-## 🌱 Current Focus
-
-I am currently exploring and building in the following areas:
-
-- Large-scale video analytics
-- AI-powered CCTV search
-- Face-recognition accuracy optimisation
-- Vector databases for visual search
-- Edge AI deployment
-- Low-latency inference
-- Multi-camera person tracking
-- Embedded cybersecurity
-- Autonomous monitoring systems
-- AI infrastructure optimisation
-- Hardware and software integration
-- Secure IoT communication
-- Multimodal AI systems
-- AI-powered media indexing
-- Lightweight tunnelling systems
-- Low-cost intelligent hardware
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
