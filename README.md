@@ -33,17 +33,6 @@ I am the **Founder and CTO of [Jezt AI](https://www.jezt.in)**, where I lead the
 
 My work focuses on transforming technical ideas into complete real-world systems by combining:
 
-- Artificial intelligence
-- Computer vision
-- Embedded hardware
-- Cloud infrastructure
-- Networking
-- Cybersecurity
-- Backend engineering
-- Edge computing
-- Robotics
-- Product architecture
-
 I enjoy building complete products rather than working on only one layer. This includes AI models, embedded firmware, backend platforms, cloud infrastructure, networking tools, dashboards, APIs, deployment pipelines, and hardware prototypes.
 
 ### A few things about me
